@@ -1,0 +1,5 @@
+.venv/
+openpom-repo/
+__pycache__/
+*.pyc
+.env
